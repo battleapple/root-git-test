@@ -1,4 +1,4 @@
-echo test github
+echo,test github
 echo 'hello'
-echo "awk"
+echo,"awk"
 awk
